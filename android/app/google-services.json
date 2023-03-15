@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820774086098",
+    "project_id": "sales-manager-c9007",
+    "storage_bucket": "sales-manager-c9007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820774086098:android:6fce5e047e24d6df5ed40b",
+        "android_client_info": {
+          "package_name": "com.sales.manager.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820774086098-8fa1h4160kse4onjd0fnfbht40vlrvih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzpENwzhjJSvqy-tixHLG6kWTvuHgSX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820774086098-8fa1h4160kse4onjd0fnfbht40vlrvih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
